@@ -1,0 +1,31 @@
+Poblaci�n,ID Causa,Causa,ID Impedimento,Impedimento
+11766,1,Nacimiento,1,Discapacidad Visual
+33395,2,Enfermedad,1,Discapacidad Visual
+2280,3,Accidente,1,Discapacidad Visual
+23429,4,Edad avanzada,1,Discapacidad Visual
+12454,5,Otra causa,1,Discapacidad Visual
+10480,1,Nacimiento,2,Discapacidad auditiva
+9372,2,Enfermedad,2,Discapacidad auditiva
+1547,3,Accidente,2,Discapacidad auditiva
+19885,4,Edad avanzada,2,Discapacidad auditiva
+2352,5,Otra causa,2,Discapacidad auditiva
+10499,1,Nacimiento,3,Discapacidad motriz
+6286,2,Enfermedad,3,Discapacidad motriz
+1809,3,Accidente,3,Discapacidad motriz
+7901,4,Edad avanzada,3,Discapacidad motriz
+2444,5,Otra causa,3,Discapacidad motriz
+11852,1,Nacimiento,4,Discapacidad para recordar
+6242,2,Enfermedad,4,Discapacidad para recordar
+831,3,Accidente,4,Discapacidad para recordar
+16574,4,Edad avanzada,4,Discapacidad para recordar
+4017,5,Otra causa,4,Discapacidad para recordar
+10987,1,Nacimiento,5,Discapacidad física
+25333,2,Enfermedad,5,Discapacidad física
+9072,3,Accidente,5,Discapacidad física
+26737,4,Edad avanzada,5,Discapacidad física
+3875,5,Otra causa,5,Discapacidad física
+12384,1,Nacimiento,6,Discapacidad para comunicarse
+4878,2,Enfermedad,6,Discapacidad para comunicarse
+361,3,Accidente,6,Discapacidad para comunicarse
+3145,4,Edad avanzada,6,Discapacidad para comunicarse
+3099,5,Otra causa,6,Discapacidad para comunicarse
